@@ -1,0 +1,8 @@
+.carousel {
+    height: 400px; /* Adjust the value as needed */
+}
+
+.carousel img {
+    object-fit: cover; /* Cover the entire carousel area */
+    height: 500px /* Fill the entire carousel container */
+}
